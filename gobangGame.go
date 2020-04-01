@@ -1,7 +1,7 @@
 package main
 
 import (
-	"gobangIcon"
+	"github.com/qhj-yx/renju/gobangIcon"
 
 	"fyne.io/fyne"
 	"fyne.io/fyne/app"
