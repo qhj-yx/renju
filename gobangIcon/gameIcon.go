@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 package github.com/qhj-yx/renju/gobangIcon
+=======
+package gobangIcon
+>>>>>>> 4882a2b34fb2064771b01871422f2970ea25b0a8
 
 import (
 	"log"
@@ -84,4 +88,8 @@ func init() {
 		return
 	}
 }
+<<<<<<< HEAD
+=======
+
+>>>>>>> 4882a2b34fb2064771b01871422f2970ea25b0a8
 
