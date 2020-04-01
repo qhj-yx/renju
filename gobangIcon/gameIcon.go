@@ -1,4 +1,4 @@
-package github.com/qhj-yx/renju/gobangIcon
+package gobangIcon
 
 import (
 	"log"
